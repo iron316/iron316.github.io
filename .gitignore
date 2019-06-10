@@ -1,0 +1,4 @@
+_site/
+vender/
+Gemfile.Lock
+.bundle/
