@@ -1,4 +1,4 @@
-_site/
-vender/
+_site/*
+vender/*
 Gemfile.Lock
-.bundle/
+.bundle/*
