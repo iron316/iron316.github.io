@@ -23,7 +23,7 @@ title: top page
     - numpy
     - pandas
 
-##　コンペ経験
+## コンペ経験
 
 - 5/25~26 Gunosyハッカソン第3位
     - [interview page](https://journal.peakers.jp/140612572/)
