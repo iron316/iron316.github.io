@@ -1,4 +1,9 @@
 theme: jekyll-theme-midnight
+markdown: kramdown
+exclude: ['vendor']
 
-title: [tetsu page's]
-description: [portfolio and survey paper]
+title: tetsu
+description: portfolio and paper survey
+
+twitter_usename: tetsu316naga
+github_username: iron316
